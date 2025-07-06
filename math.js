@@ -12,3 +12,8 @@ function square(n) {
 function isEven(n) {
   return n % 2 === 0;
 }
+
+// Check if odd
+function isOdd(n) {
+  return n % 2 !== 0;
+}
