@@ -17,3 +17,8 @@ function isEven(n) {
 function isOdd(n) {
   return n % 2 !== 0;
 }
+
+// Multiply numbers
+function multiply(a, b) {
+  return a * b;
+}

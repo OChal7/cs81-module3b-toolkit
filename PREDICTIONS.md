@@ -9,3 +9,7 @@ I think isEven(3) will return false
 
 ## isOdd(n)
 I think isOdd(3) will return true
+
+## multiply(a, b)
+I think multiply(3,4) will return 12
+

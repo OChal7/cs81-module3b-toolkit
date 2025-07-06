@@ -9,3 +9,6 @@ isEven(3) returned: false
 
 ## isOdd(n)
 isOdd(3) returned: true
+
+## multiply(a, b)
+multiply(3,4) returned: 12
