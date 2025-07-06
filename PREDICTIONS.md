@@ -1,3 +1,5 @@
 ## double(n)
-I think double(n) will return 2*n
+I think double(3) will return 6
 
+## square(n)
+I think square(3) will return 9.
