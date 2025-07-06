@@ -7,3 +7,8 @@ function double(n) {
 function square(n) {
   return n * n;
 }
+
+// Check if even
+function isEven(n) {
+  return n % 2 === 0;
+}
